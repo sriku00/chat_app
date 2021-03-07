@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>139349996661-jr4670ajl8lrred60jgqffh1ngvp8j34.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.139349996661-jr4670ajl8lrred60jgqffh1ngvp8j34</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDL_ey8eVvBMzMP2z6cG9fkGnxrpNLfIgY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>139349996661</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sriku.chatApp</string>
+	<key>PROJECT_ID</key>
+	<string>supreme-chat-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>supreme-chat-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:139349996661:ios:681598e70ee501b6e5343c</string>
+</dict>
+</plist>
