@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "139349996661",
+    "project_id": "supreme-chat-app",
+    "storage_bucket": "supreme-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139349996661:android:02231639c9c98604e5343c",
+        "android_client_info": {
+          "package_name": "com.sriku.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139349996661-5g75fpkdp7h81p05oofuh8h423qopa8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sriku.chat_app",
+            "certificate_hash": "ae0b9d1c8c48f9651ec9be9cf1706dd90b2e2433"
+          }
+        },
+        {
+          "client_id": "139349996661-k7jvgtujf2l3pbnp6diqhrkhq8o4i6hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpSum-X8CP4Y6AtpsNGn86QTiQd7XOBtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139349996661-k7jvgtujf2l3pbnp6diqhrkhq8o4i6hm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139349996661-jr4670ajl8lrred60jgqffh1ngvp8j34.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sriku.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
